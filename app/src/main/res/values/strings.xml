@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Stock Market</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_about">About</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="notification_title">NOTIFICATION!</string>
+    <string name="save">Save</string>
+    <string name="error">ERROR</string>
+    <string name="reset">Reset</string>
+    <string name="about">This app displays more-or-less real time prices at 1 minute intervals for stocks and limited stock indexes.\n
+        Use:\n
+        <ol>
+            <li>.dji for the DowJones Industrials</li>\n
+            <li>.inx for the SP 500</li>\n
+            <li>.ixic for the NASDAQ Composite</li>\n
+        </ol>\n
+        If there is an incorrect ticker, \"ERROR\" is placed in the time field.  Tickers which return no data, but are valid display \"--\" in the time field (and usually 0 for the price).\n
+        \n
+        Data is provided by Google.\n
+        \n
+    </string>
+
+</resources>
